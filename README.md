@@ -2,7 +2,8 @@
 
 ## How to Run
 - Install Requirements
-  - ` pip install -r requirements.txt`
+  - System should have the latest version of python installed.
+  - To install the required libraries: `pip install -r requirements.txt `
 - Run the file `flappybird.py`
 
 ## How it works
